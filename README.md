@@ -54,7 +54,7 @@ FRONTEND_URL=http://localhost:3000
 ### 3. Frontend
 
 ```bash
-cd football-shop/frontend
+cd reactexpcriativa/frontend
 npm install
 npm start
 # Aplicação rodando em http://localhost:3000
@@ -68,7 +68,7 @@ Na tela de login (`/login`):
 - **Usuário:** `admin`
 - **Senha:** `jersey2024`
 
-> Em produção, substitua por autenticação real com JWT e bcrypt.
+>Deixado para poder testar a funcao de ADMIN 
 
 ---
 
