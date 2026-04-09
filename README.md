@@ -16,7 +16,7 @@ Sistema web completo com React, Node.js/Express e MySQL.
 
 
 -- No terminal, execute:
-mysql -u root -p < database.sql
+mysql -u root -p < database-true.sql
 
 Se nao abra o arquivo pelo mySQL
 
