@@ -1,4 +1,4 @@
-# ⚽ JerseyStore — Loja de Camisas de Futebol
+# JerseyStore — Loja de Camisas de Futebol
 
 Sistema web completo com React, Node.js/Express e MySQL.
 
@@ -62,7 +62,7 @@ npm start
 
 ---
 
-## 🔐 Acesso Admin
+## Acesso Admin
 
 Na tela de login (`/login`):
 - **Usuário:** `admin`
@@ -72,7 +72,7 @@ Na tela de login (`/login`):
 
 ---
 
-## 📡 Endpoints da API
+## Endpoints da API
 
 | Método | Rota | Descrição |
 |--------|------|-----------|
@@ -93,7 +93,7 @@ Na tela de login (`/login`):
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Listagem** com paginação, busca e filtro por categoria
 - **Detalhe** do produto com seleção de tamanho
@@ -107,7 +107,7 @@ Na tela de login (`/login`):
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Frontend:** React 18, React Router v6, Tailwind CSS, Fetch API  
 **Backend:** Node.js, Express, mysql2, CORS, dotenv  
